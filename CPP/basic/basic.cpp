@@ -8,7 +8,7 @@ Basic::Basic()
 {
     bar = 10;
     cout<<"here inside conostructor bar ="<<bar<<endl;
-//    typo intentionally
+    typo intentionally
 };
 
 void Basic::foo()
